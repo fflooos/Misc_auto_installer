@@ -4,7 +4,7 @@ IP_RANGE="\t\t127.0.0.1/8\\;\\
 \t\t127.0.1.1/8\\;\\
 \t\t192.168.0.0/24\\;\\"
 
-DOMAIN="fslab.flo-os.com"
+DOMAIN="yourdomain.com"
 DOMAIN_IP="192.168.0.205"
 DNS_SERVER="${HOSTNAME}"
 
