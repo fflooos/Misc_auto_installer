@@ -139,8 +139,6 @@ ${DOMAIN}. IN SOA ${DNS_SERVER}. postmaster.${DOMAIN}. (
 ;
 
 ${DOMAIN}.  IN NS  ${DNS_SERVER}.;
-${DOMAIN}.  IN NS  ns57.domaincontrol.com.;
-${DOMAIN}.  IN NS  ns58.domaincontrol.com.;
 
 ;
 ; Hostnames declaration.
