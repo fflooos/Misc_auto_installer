@@ -71,7 +71,7 @@ echo "Reloading bind & fail2ban..."
 /etc/init.d/bind9 reload
 /etc/init.d/fail2ban restart
 
-echo "Setting up opennic Big Brother free DNS"
+echo "Setting up opennic log free DNS"
 NAME_SERVERS="\t\t5.9.49.12\\;\\
 \t\t193.183.98.154\\;\\
 \t\t185.83.217.248\\;\\
